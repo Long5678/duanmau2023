@@ -4,7 +4,7 @@
     include "../model/sanpham.php";
     include "../model/taikhoan.php";
     include "../model/binhluan.php";
-    include "../model/cart.php";
+    include "../model/thongke.php";
     include "header.php";
     // controller
 
